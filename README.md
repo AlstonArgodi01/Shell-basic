@@ -28,7 +28,9 @@ Materi Sistem Operasi dengan soal :
 4.  Shell 2
     
     Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash  dengan ketentuan sbb!
+    
     o user menginputkan acuan bilangan
+    
     o mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
 
 5.  Deadlock
