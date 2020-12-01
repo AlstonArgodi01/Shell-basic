@@ -1,0 +1,2 @@
+Buatlah program percabangan sederhana aritmatika yang menerapkan beberapa konsep
+pemrograman bash
