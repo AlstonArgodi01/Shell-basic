@@ -1,3 +1,0 @@
-#Sistem Operasi
-
-Bash File pertama
