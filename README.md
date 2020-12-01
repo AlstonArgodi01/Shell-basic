@@ -18,8 +18,18 @@ Materi Sistem Operasi dengan soal :
 
 
 3.  Manipulasi Hak Akses
+    
+    Buat dua user pada sistem operasi anda kemudian buatlah sebuah berkas .txt dari user pertama,
+    dengan ketentuan :
+    1.  Berkas .txt bisa dibaca dan di-edit oleh user pertama.
+    2.  User kedua hanya bisa membaca berkas tersebut.
+
 
 4.  Shell 2
+    
+    Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash  dengan ketentuan sbb!
+    o user menginputkan acuan bilangan
+    o mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
 
 5.  Deadlock
 
