@@ -37,6 +37,11 @@ Materi Sistem Operasi dengan soal :
 
 6.  Shell 3
 
+    Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+
+    user input data arrayIPSMahasiswa[index]
+    IPK = (jumlah nilai IPS) / (jumlah data IPS)
+
 7.  MultiProcess
 
 8.  Shell 4
