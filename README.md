@@ -3,10 +3,10 @@ shell script material with questions for solve:
 1. Bash
     Using Terminal, create a directory called "Learn Bash Basic" then go into that directory and create a Bash script
     simple which can output an output like below:
-    ```
+   
     Halo dunia!
     Ini adalah skrip Bash pertamaku di Linux!
-    ```
+   
 
 2. Shell 1
 3
