@@ -1,15 +1,12 @@
 # Sistem-Operasi
-
-Materi Sistem Operasi dengan soal :
-
-1.  Bash
-    
-    Dengan menggunakan Terminal, buatlah sebuah direktori bernama "Belajar Bash
-    Dasar" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash
-    sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
-
+shell script material with questions for solve:
+1. Bash
+    Using Terminal, create a directory called "Learn Bash Basic" then go into that directory and create a Bash script
+    simple which can output an output like below:
+    ```
     Halo dunia!
     Ini adalah skrip Bash pertamaku di Linux!
+    ```
 
 2.  Shell 1
 
