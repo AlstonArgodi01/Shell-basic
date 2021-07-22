@@ -1,4 +1,4 @@
-# Sistem-Operasi
+# Shell-basic
 shell script material with questions for solve:
 1. Bash
     Using Terminal, create a directory called "Learn Bash Basic" then go into that directory and create a Bash script
@@ -8,40 +8,37 @@ shell script material with questions for solve:
     Ini adalah skrip Bash pertamaku di Linux!
     ```
 
-2.  Shell 1
+2. Shell 1
+3
+    Write a simple arithmetic branching program that applies several concepts
+    bash programming
 
-    Buatlah program percabangan sederhana aritmatika yang menerapkan beberapa konsep
-    pemrograman bash
-
-
-3.  Manipulasi Hak Akses
+3. Manipulation of Access Rights
     
-    Buat dua user pada sistem operasi anda kemudian buatlah sebuah berkas .txt dari user pertama,
-    dengan ketentuan :
-    1.  Berkas .txt bisa dibaca dan di-edit oleh user pertama.
-    2.  User kedua hanya bisa membaca berkas tersebut.
+    Create two users on your operating system then create a .txt file from the first user,
+    under the condition :
+    1. The .txt file can be read and edited by the first user.
+    2. The second user can only read the file.
 
 
-4.  Shell 2
+4. Shell 2
     
-    Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash  dengan ketentuan sbb!
+    Make a looping program that applies some bash programming concepts with the following conditions!
     
-    o user menginputkan acuan bilangan
+    o the user inputs the reference number
     
-    o mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
+    o prints positive numbers that are odd multiples of 3 5 7 9 and so on from the reference number
 
-5.  Deadlock
+5. Deadlock
 
-6.  Shell 3
+6. Shell 3
 
-    Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+    Make an array program that can calculate the GPA of students who apply some bash programming concepts as above with the following conditions!
 
-    user input data arrayIPSMahasiswa[index]
-    IPK = (jumlah nilai IPS) / (jumlah data IPS)
+    user input data arrayIPSStudent[index]
+    GPA = (sum of IPS scores) / (sum of IPS data)
 
-7.  MultiProcess
+7. MultiProcess
 
-8.  Shell 4
-
-Final Project
+8. Shell 4
 
